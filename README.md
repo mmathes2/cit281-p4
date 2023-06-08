@@ -1,4 +1,7 @@
 # cit281-p4
+![image](https://github.com/mmathes2/cit281-p4/assets/134009490/8fb3904f-66fb-4904-b979-8fc57a40a592)
+
+In a world, where code can have questions and answers requested by the server url....
 ## create files, initialize Node, and add fastify 
 ```npm init ``` ```npm install --save fastify``` 
 ## create data file 
